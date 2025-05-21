@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-05-21 at 5 17 40 PM](https://github.com/user-attachments/assets/bb681d60-b705-46a9-a291-eeb6262a3f30)# New_project
+# New_project
 1.	Google Assistant Clone with Lens Feature
 > Features:
 •	Developed an Android-based google assistant application with a built-in Google Lens-like feature.
